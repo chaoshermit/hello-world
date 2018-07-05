@@ -1,0 +1,10 @@
+#include<stdio.h>
+#include<ctype.h>
+main(){
+char name[100];
+int i;
+printf("enter your full name\n");
+for("i=0;i<100;i++)
+{
+scanf("%s",&name);}
+for
